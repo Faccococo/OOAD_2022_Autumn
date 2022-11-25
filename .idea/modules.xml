@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/OOAD_2022_Autumn.iml" filepath="$PROJECT_DIR$/.idea/OOAD_2022_Autumn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week11/Week11.iml" filepath="$PROJECT_DIR$/Week11/Week11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week8/Week8.iml" filepath="$PROJECT_DIR$/Week8/Week8.iml" />
+    </modules>
+  </component>
+</project>
